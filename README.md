@@ -2,16 +2,16 @@
 This Codeigniter Library can be use for unique string generation based on PHP uniqid() function.
 
 /**
+
  * CodeIgniter Unique ID Generation Library
- *
  * Generate Unique ID in CodeIgniter applications.
- *
  * @package            CodeIgniter
  * @subpackage        Libraries
  * @category        Libraries
  * @author            Ishwar Acharya
  * @link            https://github.com/imishwaracharya
  * @link            https://ishwaracharya.com.np
+ 
  */
 
 
